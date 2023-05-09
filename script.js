@@ -20,7 +20,6 @@ console.log(a)
 console.log(b)
 console.log(c)
 
-
 /*
  * Prompt 3:
  *
@@ -31,6 +30,12 @@ console.log(c)
  *   - divide your variable by 7
  *   - calculate the remainder of dividing your variable by 2
  */
+let num = 9
+console.log(num + 1)
+console.log(num - 6)
+console.log(num * 3)
+console.log(num / 7)
+console.log(num % 2)
 
 /*
  * Prompt 4:
