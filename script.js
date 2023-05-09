@@ -13,6 +13,13 @@ console.log('my favorite song is ' + myFavoriteSong)
  *
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
+let a = 'Blank Space'
+const b = 'Lover'
+var c = 'All Too Well'
+console.log(a)
+console.log(b)
+console.log(c)
+
 
 /*
  * Prompt 3:
